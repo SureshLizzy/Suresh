@@ -28,18 +28,32 @@ public class AvengerStones {
 	private void wanda() {
 		System.out.println("Scarlet witch");
 	}
-	
+
 	private void loki() {
 		System.out.println("God of Mischief");
 	}
-	
+
 	private void hulk() {
 		System.out.println("Bruce banner");
 	}
-	
+
 	private void agentramonoff() {
 		System.out.println("Black Widow");
-		
+
 	}
 
+	private void Hawkeye() {
+		System.out.println("advanced weaponry and gadgets");
+		
+	}
+	
+	private void Blackpanther() {
+		System.out.println("Necromancy");
+	}
+	
+	private void Ironman() {
+		System.out.println("cyberpathic control ");
+	}
+	
+	
 }
