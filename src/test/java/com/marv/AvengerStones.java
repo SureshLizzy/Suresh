@@ -41,5 +41,17 @@ public class AvengerStones {
 		System.out.println("Black Widow");
 		
 	}
+	
+	private void moonKnight() {
+		System.out.println("Draw power from moon");
+	}
+	
+	private void helena() {
+		System.out.println("Sister of thor");
+	}
+	
+	private void kang() {
+		System.out.println("He who remains");
+	}
 
 }
